@@ -29,6 +29,17 @@ input{
   padding-left: 2%;
   font-size: 1rem;
 }
+.password{
+  position: relative;
+}
+
+.password i{
+  position: absolute;
+  right: 7%;
+  top: 53%;   
+  cursor: pointer;
+  font-size: 1.1rem;
+}
 button{
   border: 0.1rem solid black;
   border-radius: 0.5rem;
